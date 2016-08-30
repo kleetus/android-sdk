@@ -16,7 +16,7 @@ You'll need to add this SDK as a dependency to your Android project. This proces
 If you're using Android Studio or gradle to build your app, add the following to your `build.gradle` file:
 
 ```gradle
-compile 'com.bitpay:android-sdk:1.0.0@aar'
+compile 'com.bitpay:android-sdk:1.0.1@aar'
 ```
 
 Additionaly, you'll have to specify these dependencies:
@@ -46,7 +46,7 @@ If you're using maven, add the following dependency:
 <dependency>
   <groupId>com.bitpay</groupId>
   <artifactId>android-sdk</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>aar</packaging>
 </dependency>
 ```
